@@ -1,3 +1,82 @@
 Curso de Java pildoras informaticas
 Inicio 29 de Marzo del 2023 16:13
 
+Video 1 (0)
+Indice Tiobe consulta los lenguajes de programacion mas utilizados.
+
+Video 2 (1)
+Entorno de desarrollo (IDE) software que permite escribir codigo en algun lenguaje de programcion (ejemplos, Eclipse, Netbeans, etc).
+
+Video 3 (2)
+JRE Java Runtime Enviroment (JVM = Java Virtual Machine)
+Java es un Multiplataforma 
+Primero se compila, luego se interpreta
+
+Video 4 (2b)
+Con el comando 
+
+java -version
+
+se verifica la version de java que tenemos en el equipo
+
+
+---------------------
+30 de marzo 2023 
+Video 5 (3)
+catacteristicas de Java
+Orientado a Objetos
+Distribuido
+
+Video 6(4)--Empezar
+
+
+---------------------
+01 de Abril 2023 
+Video 5 (3)
+en el ano 1991 Sun MicroSystem creo Java (James Gosling y Patrick Naughton) y Oracle la compro
+Java se creo para que se pudiera utilizar en pequenos electrodomesticos.
+
+Antes de llamarse Java quiseorn llamarle Oak, pero este ya estaba registrado.
+
+Los ingenieros eran aditctos al cafe, en USA coloquialmente tomar una taza de cafe es iguala java
+
+En el ano 94 e internet se hacia mas grande, pensaron que las catacteristicas de java se adaptaba como guante internet
+
+1996 se creo un navegador llamado hot Java
+
+catacteristicas de Java
+-- Orientado a Objetos
+-- Distribuido. Buen tratamiento de redes. Buena programacion para internet.
+-- Seguro. Como fue pensado para trabajar en intrenet se hizo seguro
+    --No permite leer o esribir ficheros sin permiso
+    --desbordar la pila de ejecucion
+    --Corrupcion de memoria
+--Neutro (multiplataforma)
+--Adaptable: tipo de datos primitivos iguales en todas las plataformas.
+--Interpretado.
+--Alto rendimiento.
+--Multi treading.
+
+Java no es extension de Html
+java no es JavaScript
+Todos los programas no se ejecutan en una pagina web.
+Java no es inseguro, pero no es 100% seguro.
+
+
+
+Video 6(4)
+Estructuras principaples del lenguaje
+-tipos de programas
+    consola
+    proposito general
+    applets (web)
+
+Java es un lengua case sensitive, distingue entre mayusculas y minusculas.
+
+Las llaves {} delimitan codigo.
+
+
+ 
+
+
+
