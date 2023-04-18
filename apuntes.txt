@@ -154,4 +154,21 @@ Concatenacion
 + une o Concatenacion
 
 -------------------------------------------
-Video 10  (8)
+17/Abril/2023
+Video 10 (8)
+
+-------------------------------------------
+18/Abril/2023
+Video 11 (9)
+En java puede tener dos tipos de clases
+
+Propias: son las que creamos nosotros mismos.
+
+
+PreDefinidas: Son clasese creadas ya en Java que podemos utlizar.
+
+Ejemplo: String, Math, Arrays, Thread.
+
+Api java = Biblicote de clases java
+
+Video 12 (10)
