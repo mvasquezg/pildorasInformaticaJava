@@ -109,9 +109,49 @@ double 8 bytes de Espacio
 char represemta caractres
 bolean false o true
 
-Video 08 (6)
+----------------------------------
+Video 08 (6) 15/Abril/2023
 Declaracion de variebles en Eclipse
 
+Espacio en la memoria de la computaodora que cambia su valor  durante la ejecucion del programa
+Comentarios en una sola linea //
+comentarios en multiples lineas /*Escribe aqui */
 
+----------------------------------
+Video 09 (7)
+Declaracion de constantes y operadores
 
+Espacio en la memoria de la computaodora que no cambia su valor  durante la ejecucion del programa
 
+para declrar una contante se agrega la palabra clave final tipo de dato y nombre de la constante. pro ejemplo:
+
+final int MI_CONSTANTE
+
+operadores
+Matematicos
+ + suma
+ - resta
+ * multiplicacion
+ / division
+
+Logicos, Relacionales y booleanos
+ > mayor que
+ < menor que
+ <> mayor o menor que
+ != diferente que
+ == igual que
+ && (y) logico
+ || (o) logico
+ ! negacion
+
+Incremento ++
+Decremento --
+
+incremento +=
+decremento -= 
+
+Concatenacion 
++ une o Concatenacion
+
+-------------------------------------------
+Video 10  (8)
