@@ -176,7 +176,7 @@ Clase Math2
 Hacer casteo o refundicion
 
 -------------------------------------------
-video 13 (11) empezar 13/Abril/23
+video 13 (11) empezar 19/Abril/23
 Manipulacion de String
 
 String no es dato de tipo primitivo
@@ -187,6 +187,15 @@ metodo substring(x, y) devuelve una subcadena dentro de la cadena, siendo X el c
 metodo equals(cadena) devuelve true si dos cadenas que se comparan son iguales y false si no lo son. Distingue mayusculas y minusculas.
 metodo equalsIgnoreCase igual que el metodo equals pero sin tener en cuenta mayusculas o minusculas.
 
-video 14 (12) empezar
+-------------------------------------------
+video 14 (12)  20/Abril/23
 Maipulacion de cadenas II
+
+video 15(13)
+Api primer acercamiento
+
+video 16(14) empezar video
+Entrada y salida de datos
+
+
 
