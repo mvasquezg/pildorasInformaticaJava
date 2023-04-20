@@ -187,4 +187,6 @@ metodo substring(x, y) devuelve una subcadena dentro de la cadena, siendo X el c
 metodo equals(cadena) devuelve true si dos cadenas que se comparan son iguales y false si no lo son. Distingue mayusculas y minusculas.
 metodo equalsIgnoreCase igual que el metodo equals pero sin tener en cuenta mayusculas o minusculas.
 
+video 14 (12) empezar
+Maipulacion de cadenas II
 
