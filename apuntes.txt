@@ -175,5 +175,16 @@ Video 12 (10)
 Clase Math2
 Hacer casteo o refundicion
 
-video 13 (11)
+-------------------------------------------
+video 13 (11) empezar 13/Abril/23
+Manipulacion de String
+
+String no es dato de tipo primitivo
+
+metodo length devuelve la longitud de una cadena
+metodo charAt(n) devuelve la posicion de un caracter dentro de una cadena. (Las posiciones empiezan a contar de Cero)
+metodo substring(x, y) devuelve una subcadena dentro de la cadena, siendo X el caracter a partir del cual se extrae e Y el numero de caracteres que se quieren extraer. 
+metodo equals(cadena) devuelve true si dos cadenas que se comparan son iguales y false si no lo son. Distingue mayusculas y minusculas.
+metodo equalsIgnoreCase igual que el metodo equals pero sin tener en cuenta mayusculas o minusculas.
+
 
