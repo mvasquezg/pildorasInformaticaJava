@@ -194,7 +194,12 @@ Maipulacion de cadenas II
 video 15(13)
 Api primer acercamiento
 
-video 16(14) empezar video
+-------------------------------------------
+video 16(14) video 21/Abril/23
+Entrada y salida de datos
+
+------------------------------------------
+video 17(15) video empezar
 Entrada y salida de datos
 
 
