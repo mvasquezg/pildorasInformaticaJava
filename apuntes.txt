@@ -199,8 +199,21 @@ video 16(14) video 21/Abril/23
 Entrada y salida de datos
 
 ------------------------------------------
-video 17(15) video empezar
+video 17(15) 26/Abril/23
 Entrada y salida de datos
+
+------------------------------------------
+video 18(16) 27/Abril/2023
+Condicionales I
+
+---------------------------------------
+video 19(17) 10/mayo/2023
+Condicionales II
+
+video 20(18) 
+Bucles I
+
+
 
 
 
