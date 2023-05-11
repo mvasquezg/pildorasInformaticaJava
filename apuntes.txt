@@ -213,7 +213,14 @@ Condicionales II
 video 20(18) 
 Bucles I
 
+Indeterminados
+    While
+    Do While
 
+Detrminados
+    For
+    for each
 
+video 21(19)
 
 
