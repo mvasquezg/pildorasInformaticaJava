@@ -236,7 +236,11 @@ video 25 (23)
 Array I
 
 --------------------------------
-video 26 (24) Empezar
-Array I
+video 26 (24) 
+Array II 
+For each
+
+video 27 (25) Empezar
+Array II 
 
 
