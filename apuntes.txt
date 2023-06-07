@@ -240,7 +240,12 @@ video 26 (24)
 Array II 
 For each
 
-video 27 (25) Empezar
-Array III 
+----------------------------------------
+video 27 (25) 
+Array III   
+Array de dos dimensiones
 
+----------------------------------------
+video 29 (27) empeiza 07/Junio/2023
+POO I
 
