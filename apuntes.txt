@@ -246,9 +246,21 @@ Array III
 Array de dos dimensiones
 
 ----------------------------------------
-video 29 (27) empeiza 07/Junio/2023
+video 29 (27) 
 POO I
 
 Video 30 (28)
 POO II
+
+----------------------------------------
+Video 31 (29) 08/Junio/2023
+POO III
+MOdularizacion 
+Encapsulacion
+
+Video 32 
+POO IV
+Modificacion de propiedades metodos setters y getter
+
+
 
