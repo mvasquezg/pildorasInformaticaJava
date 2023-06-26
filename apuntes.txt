@@ -1,4 +1,4 @@
-Curso de Java pildoras informaticas
+lCurso de Java pildoras informaticas
 Inicio 29 de Marzo del 2023 16:13
 
 Video 1 (0)
@@ -253,14 +253,23 @@ Video 30 (28)
 POO II
 
 ----------------------------------------
-Video 31 (29) 08/Junio/2023
+Video 31 (29) 
 POO III
 MOdularizacion 
 Encapsulacion
 
-Video 32 
+
+Video 32 (30)
 POO IV
 Modificacion de propiedades metodos setters y getter
 
+---------------------------------------------------------
+Video 33 (31) 26/jun/2023
+POO V
+Paso de parametros.
+
+Video 34 (32) Empezar en este video
+POO VI
+Construccion de Objetos
 
 
