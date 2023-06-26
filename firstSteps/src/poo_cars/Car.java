@@ -22,13 +22,18 @@ public class Car {
 		this.platformWeight=500;
 	}
 	
+	public String getGeneralData() {
+		return "La plataforma del vehiculo tiene "+this.tire+" ruedas. Mide "+(this.length/1000)+" metros con un ancho de "+this.width+" cm y un peso de platorma de "+platformWeight+ " Kg";
+	}
+	
 	public String getLength() {
 		return "El largo del coche es: "+this.length+" cm";
 	}
 	
 	
-	public void setColor() {
-		this.color="Azul";
+	public void setColor(String color) {
+		//this.color="Azul";
+		this.color=color;
 	}
 	
 	public String getColor() {
@@ -36,6 +41,21 @@ public class Car {
 	}
 	
 	
+	public void setLeatherSeats(String leatherSeats) {
+		
+		if(leatherSeats.equalsIgnoreCase("Si")) {
+			this.leatherSeats=true;
+		}else {
+			this.leatherSeats=false;
+		}
+	}
 	
+	public String getLeatherSeats() {
+		if(this.leatherSeats) {
+			return "El coche tiene asientos de cuero.";
+		}else {
+			return "El coche tiene asientos genericos.";
+		}
+	}
 	
 }
