@@ -13,6 +13,14 @@ public class CarsApp {
 		car1.setLeatherSeats("SI");
 		
 		System.out.println(car1.getLeatherSeats());
+		
+		car1.setAirConditioning("si");
+		
+		System.out.println(car1.getAirConditioning());
+		
+		System.out.println(car1.getTotalWeight());
+		
+		System.out.println("El precio final del coche es: "+car1.getCarPrice());
 	}
 
 }

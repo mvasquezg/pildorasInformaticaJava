@@ -58,4 +58,52 @@ public class Car {
 		}
 	}
 	
+	public void setAirConditioning(String airConditioning) {
+		if(airConditioning.equalsIgnoreCase("Si")) {
+			this.airConditioning=true;
+		}else {
+			this.airConditioning=false;
+		}
+	}
+	
+	public String getAirConditioning() {
+		
+		if(this.airConditioning) {
+			return "El coche tiene aire acondicionado.";
+		}else {
+			return "El coche no tiene aire acondicionado.";
+		}	
+	}
+	
+	
+	public String getTotalWeight() {
+		int bodywork=500;
+		
+		this.totalWeight=this.platformWeight+bodywork;
+		
+		if(leatherSeats) {
+			this.totalWeight+=50;
+		}
+		
+		if(this.airConditioning) {
+			this.totalWeight+=20;
+		}
+		
+		return "El peso total del vehiculo es "+this.totalWeight+ " kg";
+	}
+	
+	public int getCarPrice() {
+		int finalPrice=10000;
+		
+		if(leatherSeats) {
+			finalPrice+=2000;
+		}
+		
+		if(airConditioning) {
+			finalPrice+=1500;
+		}
+		
+		return finalPrice;
+	}
+	
 }
