@@ -268,8 +268,11 @@ Video 33 (31) 26/jun/2023
 POO V
 Paso de parametros.
 
-Video 34 (32) Empezar en este video
+Video 34 (32) 
 POO VI
-Construccion de Objetos
-
+Construccion de Objetos I
+---------------------------------------------------------
+Video 35 (33) Empezar
+POO VII
+Construccion de Objetos II
 
