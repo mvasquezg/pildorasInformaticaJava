@@ -272,7 +272,15 @@ Video 34 (32)
 POO VI
 Construccion de Objetos I
 ---------------------------------------------------------
-Video 35 (33) Empezar
+Video 35 (33) 
 POO VII
 Construccion de Objetos II
+---------------------------------------------------------
+Video 36 (34)
+POO VII
+Construccion de Objetos III
 
+---------------------------------------------------------
+Video 37 (35) Empezar
+POO VII
+Construccion de Objetos IV
