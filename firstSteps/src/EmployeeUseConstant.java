@@ -23,4 +23,8 @@ public class EmployeeUseConstant {
 	public String getData() {
 		return "Id del empleado: "+this.id+"\nEl nombre es: "+this.NAME+" y la seccion es: "+this.section;
 	}
+	
+	public static String returnNextId() {
+		return "El id siguiente: "+idEmployee;
+	}
 }

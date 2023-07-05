@@ -16,6 +16,10 @@ public class EmployeeApp {
 		//EmployeeUseConstant.idEmployee++;
 		System.out.println();
 		System.out.println(employee3.getData());
+		System.out.println();
+		System.out.println(EmployeeUseConstant.returnNextId());
+		
+		
 	}
 
 }
