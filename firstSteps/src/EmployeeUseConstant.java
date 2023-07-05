@@ -2,10 +2,14 @@
 public class EmployeeUseConstant {
 	private final String NAME;
 	private String section;
+	private int id;
+	private static int idEmployee=1;
 	
 	public EmployeeUseConstant(String name) {
+		this.id=idEmployee;
 		this.NAME=name;
 		this.section="Administracion";
+		idEmployee++;
 	}
 	
 	public void changeSection(String section) {
@@ -17,6 +21,6 @@ public class EmployeeUseConstant {
 	}*/
 	
 	public String getData() {
-		return "El nombre es: "+this.NAME+" y la seccion es: "+this.section;
+		return "Id del empleado: "+this.id+"\nEl nombre es: "+this.NAME+" y la seccion es: "+this.section;
 	}
 }
