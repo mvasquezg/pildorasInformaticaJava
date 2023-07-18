@@ -8,12 +8,23 @@ public class Employee {
 	private double salary;
 	private Date dischargeDate;
 	
+	public Employee() {
+		
+	}
+	
 	public Employee(String name, double salary, int year, int month, int day) {
 		this.name=name;
 		this.salary=salary;
 		GregorianCalendar calendar=new GregorianCalendar(year, month-1, day);
 		this.dischargeDate=calendar.getTime();
 	}
+	
+	public Employee(String name) {
+		//this.name=name;
+		this(name, 30000, 2000, 01, 01);
+	}
+	
+	
 	
 	public String getName() {
 		return name;

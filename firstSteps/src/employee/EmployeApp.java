@@ -23,12 +23,13 @@ public class EmployeApp {
 		System.out.println("\nNombre: "+employee3.getName()+"\nSueldo: "+employee3.getSalary()+"\nFecha alta: "+employee3.getDischarDate());
 		*/
 		
-		Employee[] arrayEmployee=new Employee[3];
+		Employee[] arrayEmployee=new Employee[4];
 		
 		arrayEmployee[0]=new Employee("Miguel Vasquez", 85000, 1990, 12, 17);
 		arrayEmployee[1]=new Employee("Carolina Garcia", 95000, 1995, 6, 2);
 		arrayEmployee[2]=new Employee("Uciel Laguna", 105000, 2002, 3, 15);
-	
+		arrayEmployee[3]=new Employee("Juan Ramon");
+		
 		/*for(int i=0;i<3;i++) {
 			arrayEmployee[i].raiseTheSalary(5);
 		}*/
