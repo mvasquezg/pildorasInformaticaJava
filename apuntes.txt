@@ -6,7 +6,7 @@ Indice Tiobe consulta los lenguajes de programacion mas utilizados.
 
 Video 2 (1)
 Entorno de desarrollo (IDE) software que permite escribir codigo en algun lenguaje de programcion (ejemplos, Eclipse, Netbeans, etc).
-
+ 
 Video 3 (2)
 JRE Java Runtime Enviroment (JVM = Java Virtual Machine)
 Java es un Multiplataforma 
@@ -281,11 +281,30 @@ POO VII
 Construccion de Objetos III
 
 ---------------------------------------------------------
-Video 37 (35) Empezar
+Video 37 (35) 
 POO VII
 Construccion de Objetos IV
 
-
-Video 38 (36) Empezar
+---------------------------------------------------------
+Video 38 (36)
 POO VII
 Construccion de Objetos IV
+Constantes Uso Final
+
+---------------------------------------------------------
+Video 39 (37) 
+POO VII
+Uso Static  
+
+Video 40 (38) 
+Metodos static
+Sobre carga de constructores
+---------------------------------------------------------
+Video 41 (39) 17/julio/2023
+Sobrecarga de constructores
+
+---------------------------------------------------------
+Video 42 (40) Empezar en este video 
+Herencia I
+
+
