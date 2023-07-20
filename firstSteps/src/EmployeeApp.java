@@ -8,7 +8,7 @@ public class EmployeeApp {
 		
 		employee1.changeSection("RH");
 		//employee1.changeName("Maria");
-		
+	
 		System.out.println(employee1.getData());
 		//EmployeeUseConstant.idEmployee++;
 		System.out.println();
@@ -18,8 +18,5 @@ public class EmployeeApp {
 		System.out.println(employee3.getData());
 		System.out.println();
 		System.out.println(EmployeeUseConstant.returnNextId());
-		
-		
 	}
-
 }
