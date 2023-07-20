@@ -51,9 +51,6 @@ public class EmployeApp {
 			}*/
 		for(Employee e: arrayEmployee) {
 			 System.out.println("\n\nNombre: "+e.getName()+"\nSueldo: "+e.getSalary()+"\nFecha alta: "+e.getDischarDate());
-			 
-			 
-			}
+		}
 	}
-
 }
