@@ -6,7 +6,7 @@ public class CarsApp {
 
 	public static void main(String[] args) {
 		
-		Car car1=new Car(); //Instaciar clase. Ejemplar de Clase
+		/*Car car1=new Car(); //Instaciar clase. Ejemplar de Clase
 		
 		//car1.setColor("Marron");
 		car1.setColor(JOptionPane.showInputDialog("Ingresa el color del vehiculo: "));
@@ -26,6 +26,24 @@ public class CarsApp {
 		System.out.println(car1.getTotalWeight());
 		
 		System.out.println("El precio final del coche es: "+car1.getCarPrice());
+		*/
+		
+		Car tsuru=new Car();
+		
+		tsuru.setColor("Dorado");
+		
+		Van hilux=new Van(7, 580);
+		
+		hilux.setColor("Rojo");
+		hilux.setLeatherSeats("Si");
+		hilux.setAirConditioning("Si");
+		
+		System.out.println(tsuru.getGeneralData()+"\n"+tsuru.getColor());
+		
+		System.out.println();
+		System.out.println(hilux.getGeneralData()+"\n"+hilux.getColor()+"\n"+hilux.getDataVan());
+		
+	
 	}
 
 }
