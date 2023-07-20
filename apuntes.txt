@@ -304,7 +304,12 @@ Video 41 (39) 17/julio/2023
 Sobrecarga de constructores
 
 ---------------------------------------------------------
-Video 42 (40) Empezar en este video 
+Video 42 (40) 18/jul/22023 
 Herencia I
+
+---------------------------------------------------------
+Video 43 (41) Empezar no se subio a git 
+Herencia II
+
 
 
