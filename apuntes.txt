@@ -308,8 +308,18 @@ Video 42 (40) 18/jul/22023
 Herencia I
 
 ---------------------------------------------------------
-Video 43 (41) Empezar no se subio a git 
+Video 43 (41) 20/jul/2023 
 Herencia II
+
+Pregunta para saber como debe aplicar Herencia de mis clases?
+
+Hay regla para determinar las herencias de las clases:
+
+Aplicar el termino "Es un..."
+
+---------------------------------------------------------
+Video 44 (42) Empezar 
+Herencia III
 
 
 
