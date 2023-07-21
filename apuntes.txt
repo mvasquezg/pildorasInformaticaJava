@@ -318,8 +318,12 @@ Hay regla para determinar las herencias de las clases:
 Aplicar el termino "Es un..."
 
 ---------------------------------------------------------
-Video 44 (42) Empezar 
+Video 44 (42) 21/Jul/2023 
 Herencia III
+
+Video 45 (43)  
+Polimorfismo y enlazado dinamico
+
 
 
 
