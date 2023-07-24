@@ -7,6 +7,7 @@ public class Employee {
 	private String name;
 	private double salary;
 	private Date dischargeDate;
+	private int year, month, day;
 	
 	public Employee() {
 		
@@ -29,15 +30,17 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
+	
 	public void setName(String name) {
 		this.name = name;
 	}
+	
 	
 	public double getSalary() {
 		return this.salary;
 	}
 	
-	public void setSalary(int salary) {
+	public void setSalary(double salary) {
 		this.salary = salary;
 	}
 	

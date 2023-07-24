@@ -23,13 +23,18 @@ public class EmployeApp {
 		System.out.println("\nNombre: "+employee3.getName()+"\nSueldo: "+employee3.getSalary()+"\nFecha alta: "+employee3.getDischarDate());
 		*/
 		
-		Employee[] arrayEmployee=new Employee[4];
+		EmployeeBoss bossRh=new EmployeeBoss("Juan", 55000, 2006, 9, 25);
+		bossRh.setIncentive(2570);
+		
+		
+		Employee[] arrayEmployee=new Employee[6];
 		
 		arrayEmployee[0]=new Employee("Miguel Vasquez", 85000, 1990, 12, 17);
 		arrayEmployee[1]=new Employee("Carolina Garcia", 95000, 1995, 6, 2);
 		arrayEmployee[2]=new Employee("Uciel Laguna", 105000, 2002, 3, 15);
 		arrayEmployee[3]=new Employee("Juan Ramon");
-		
+		arrayEmployee[4]=bossRh;//Polimorfismo en accion.Principio de sustitucion
+		arrayEmployee[5]=new EmployeeBoss("Maria", 95000, 1999, 5, 26);
 		/*for(int i=0;i<3;i++) {
 			arrayEmployee[i].raiseTheSalary(5);
 		}*/
@@ -37,6 +42,7 @@ public class EmployeApp {
 		for(Employee e:arrayEmployee) {
 			e.raiseTheSalary(5);
 		}
+		
 		
 		/*for(int i=0;i<3;i++) {
 		 System.out.println("\n\nNombre: "+arrayEmployee[i].getName()+"\nSueldo: "+arrayEmployee[i].getSalary()+"\nFecha alta: "+arrayEmployee[i].getDischarDate());
