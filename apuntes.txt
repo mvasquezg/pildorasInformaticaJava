@@ -321,9 +321,18 @@ Aplicar el termino "Es un..."
 Video 44 (42) 21/Jul/2023 
 Herencia III
 
-Video 45 (43)  
+---------------------------------------------------------
+Video 45 (43)  24/jul/2023
 Polimorfismo y enlazado dinamico
 
+Polimorfismo. Principio de Sustitucion: 
+Principio de Sustitucion=Se puede utilizar un objeto de la subclase siempre que el programa espere un objeto de la super clase.
+O lo que es lo mismo: un objeto se puede comportar de diferente forma dependiendo del contexto. Las variables objeto son polimorficas.
+
+Video 46 (44)
+Casting de Objetos.
+Clases y metodos final.
+  
 
 
 
