@@ -39,6 +39,11 @@ public class EmployeApp {
 			arrayEmployee[i].raiseTheSalary(5);
 		}*/
 		
+		EmployeeBoss chiefFinancialOfficer=(EmployeeBoss) arrayEmployee[5];
+		
+		chiefFinancialOfficer.setIncentive(55000);
+		
+		
 		for(Employee e:arrayEmployee) {
 			e.raiseTheSalary(5);
 		}
