@@ -329,10 +329,17 @@ Polimorfismo. Principio de Sustitucion:
 Principio de Sustitucion=Se puede utilizar un objeto de la subclase siempre que el programa espere un objeto de la super clase.
 O lo que es lo mismo: un objeto se puede comportar de diferente forma dependiendo del contexto. Las variables objeto son polimorficas.
 
-Video 46 (44)
+---------------------------------------------------------
+Video 46 (44) 04/Agosto/2023
 Casting de Objetos.
 Clases y metodos final.
-  
+
+---------------------------------------------------------
+Video 47 (45) Empezar
+Clases abstractas I.
+
+
+
 
 
 
